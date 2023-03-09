@@ -2,7 +2,7 @@
  * @Author: hibana2077 hibana2077@gmail.com
  * @Date: 2023-03-09 14:18:57
  * @LastEditors: hibana2077 hibana2077@gmail.com
- * @LastEditTime: 2023-03-09 22:50:54
+ * @LastEditTime: 2023-03-09 22:52:09
  * @FilePath: \GPT_news_generator\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -29,13 +29,13 @@ This is a news generator based on GPT-3.5-turbo . It can generate news in Chines
 
 2. You can use web app to generate news. [Click here](https://hibana2077-gpt-news-generator-srcmain-0osgu0.streamlit.app/).</br>(您可以使用網頁應用程序生成新聞。[點擊這裡](https://hibana2077-gpt-news-generator-srcmain-0osgu0.streamlit.app/)。)</br>
 Or you can use the following command to run the app locally.</br>(或者，您可以使用以下命令在本地運行應用程序。)
-```bash
-streamlit run app.py
-```
+    ```bash
+    streamlit run app.py
+    ```
 
 3. Fill in the OPENAI_API_KEY and other fields, then click the button to generate news.</br>(填寫 OPENAI_API_KEY 和其他字段，然後點擊按鈕生成新聞。)
 
-![demo](https://media.discordapp.net/attachments/868759966431973416/1083297847597875210/image.png?width=364&height=590)
+    ![demo](https://media.discordapp.net/attachments/868759966431973416/1083297847597875210/image.png?width=364&height=590)
 
 4. Done! You can see the generated news.</br>(完成！您可以看到生成的新聞。)
 
