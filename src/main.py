@@ -21,6 +21,7 @@ def main_page():
     st.write("This is a simple web app that uses gpt-3.5-turbo to generate news content.")
     st.write("It's a demo of what you can do with gpt-3.5-turbo.")
     st.write("The code is available on [GitHub](https://github.com/hibana2077/GPT_news_generator).")
+    st.markdown("---")
 
 def generate_news_page():
     st.title("Generate News")
